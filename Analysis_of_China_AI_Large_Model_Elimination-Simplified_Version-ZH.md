@@ -1083,4 +1083,4 @@ flowchart TB
 
 > **版权声明**
 > 本作品采用 Creative Commons Attribution-NonCommercial 4.0 International License 进行许可。
-> © 2026 王子文 (Adrian Wang). 仅供学习和研究用途，禁止商业使用。
+> © 2026 WANG ZIWEN (Adrian). 仅供学习和研究用途，禁止商业使用。
